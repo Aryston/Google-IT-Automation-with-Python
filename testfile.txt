@@ -4,3 +4,4 @@ Testing Git configuration po deseti put
 Ovo sad tipkam od doma s Maca. Da vidimo kak radi.
 Nastavljam direktno na github. Da vidimo hoce li nazad na VScode.
 Mislim da sam naucil kak hendlat sync. tipkam na macu, vscode.
+Sedma linija, nazad na github. Mislim da malo ulazim u pricu.
