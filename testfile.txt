@@ -2,3 +2,4 @@ Test commit
 Testing Git configuration
 Testing Git configuration po deseti put
 Ovo sad tipkam od doma s Maca. Da vidimo kak radi.
+Nastavljam direktno na github. Da vidimo hoce li nazad na VScode.
