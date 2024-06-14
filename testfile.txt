@@ -16,3 +16,6 @@ Ovo je commit s drugog kompa na poslu. Xommit
 Ovo je sad vec nastavak, back and forth, opet druga masina. Igram se.
 ovo je zadnji commit prije odlaska doma. Dela samo cli, ne i gooey.
 sdsdfcasdf\asdfcsa
+
+
+asdfasdfasdfasdfasdfasdfasdf
