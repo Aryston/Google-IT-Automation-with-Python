@@ -28,3 +28,5 @@ Linija br 26 (vscode, NO cli).
 linija 28. VScode. Jebote koja glavobolja.
 
 gor@RE450 Google-IT-Automation-with-Python % 
+
+32
