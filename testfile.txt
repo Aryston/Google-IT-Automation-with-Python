@@ -24,3 +24,5 @@ linija br. 23. Tipkam od domeka, petak navecer, 20:59. Testiram vscode.
 
 
 Linija br 26 (vscode, NO cli).
+
+linija 28. VScode. Jebote koja glavobolja.
