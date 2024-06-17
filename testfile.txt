@@ -34,3 +34,5 @@ gor@RE450 Google-IT-Automation-with-Python %
 34
 
 36
+
+38. linija. Astigospe, ovo radi iz weba. Yay.
