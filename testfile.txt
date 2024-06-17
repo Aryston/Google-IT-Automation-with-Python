@@ -43,3 +43,5 @@ gor@RE450 Google-IT-Automation-with-Python %
 Popravljena 43. linija iy Google IDX.
 
 domeka. linija 45. mac. pwa. Jebeno!
+
+47 mac vscode
