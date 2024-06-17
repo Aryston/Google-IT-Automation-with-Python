@@ -41,3 +41,5 @@ gor@RE450 Google-IT-Automation-with-Python %
 
 42. Ovo tipkam iz GOogle IDX.
 Popravljena 43. linija iy Google IDX.
+
+domeka. linija 45. mac. pwa. Jebeno!
