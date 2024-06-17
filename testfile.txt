@@ -40,3 +40,4 @@ gor@RE450 Google-IT-Automation-with-Python %
 
 
 42. Ovo tipkam iz GOogle IDX.
+43. Ovo je gooey. Da vidimo kak radi.
