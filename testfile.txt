@@ -45,3 +45,5 @@ Popravljena 43. linija iy Google IDX.
 domeka. linija 45. mac. pwa. Jebeno!
 
 47 mac vscode
+
+Necu VIM.
