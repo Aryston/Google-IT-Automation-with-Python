@@ -28,6 +28,7 @@ linija 28. VScode. Jebote koja glavobolja.
 
 
 
+
 32
 
 34
@@ -44,3 +45,5 @@ Popravljena 43. linija iy Google IDX.
 domeka. linija 45. mac. pwa. Jebeno!
 
 47 mac vscode
+
+49. Ovo je test branch kreiran na poslu. za vjezbu grananja i to.
