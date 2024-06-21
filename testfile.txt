@@ -19,6 +19,7 @@ ovo je zadnji commit prije odlaska doma. Dela samo cli, ne i gooey.
 Ekstra dodana linija br 19. Poslije merdjam s ostalim.
 
 
+
 linija br. 23. Tipkam od domeka, petak navecer, 20:59. Testiram vscode.
 
 
@@ -44,3 +45,5 @@ Popravljena 43. linija iy Google IDX.
 domeka. linija 45. mac. pwa. Jebeno!
 
 47 mac vscode
+
+49. Petak. Nova instanca vscode. 21. lipnja.
