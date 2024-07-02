@@ -11,8 +11,10 @@ def print_range(start, end):
 	n = start
 	while n <= end:
 		print(n)
-          break
+		n += 1  # Increment n by 1 to move to the next number
+          # break  # Remove the break statement to print all numbers in the range
+print_range(1, 5)  # Should print 1 2 3 4 5 (each number on its own line)
 
-print_range(1, 5)  # Should print 1 2 3 4 5 (each number on its own line) 
+
 
 
