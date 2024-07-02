@@ -1,0 +1,38 @@
+Najcesce koristene git komande:
+-------------------------------
+git add .
+git commit -m "bla bla bla"
+git push
+
+Naprednije git komande:
+-----------------------
+git clone
+git init
+git status
+git branch
+git checkout
+git merge
+git rebase
+git stash
+git pull
+git fetch
+git diff
+git log
+git status
+git remote
+git config
+git bisect
+git blame
+git cherry-pick
+git revert
+git reset
+git clean
+git gc
+
+
+
+- Git_CLI_Cheatsheet.txt
+- Git_Commands_Reference.txt
+- Git_Command_List.txt
+- Git_CLI_Quick_Reference.txt
+- Git_CLI_Commands_Guide
