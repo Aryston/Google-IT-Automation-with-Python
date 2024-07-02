@@ -30,7 +30,8 @@ git clean
 git gc
 
 
-
+Kandidati za ime fajla
+----------------------
 - Git_CLI_Cheatsheet.txt
 - Git_Commands_Reference.txt
 - Git_Command_List.txt
