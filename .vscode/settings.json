@@ -1,3 +1,5 @@
 {
-    "github.gitProtocol": "https"
+    "github.gitProtocol": "https",
+    "IDX.aI.enableInlineCompletion": true,
+    "IDX.aI.enableCodebaseIndexing": true
 }
