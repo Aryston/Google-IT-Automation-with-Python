@@ -17,3 +17,11 @@ module_names.sort()
 # Print the list in a human-readable format
 for name in module_names:
     print(name)
+
+
+import psutil
+
+for method in dir(psutil):
+    if callable(getattr(psutil, method)):
+        print(method)
+
