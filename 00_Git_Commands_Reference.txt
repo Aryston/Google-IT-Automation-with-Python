@@ -1,8 +1,14 @@
 Najcesce koristene git komande:
 -------------------------------
+git pull
+git status
 git add .
 git commit -m "bla bla bla"
 git push
+
+git reset --soft
+git reset --hard
+
 
 Naprednije git komande:
 -----------------------
@@ -14,11 +20,9 @@ git checkout
 git merge
 git rebase
 git stash
-git pull
 git fetch
 git diff
 git log
-git status
 git remote
 git config
 git bisect
