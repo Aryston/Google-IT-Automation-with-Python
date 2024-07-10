@@ -21,7 +21,7 @@
     # Search for the extensions you want on https://open-vsx.org/ and use "publisher.id"
     extensions = [
       # "vscodevim.vim"
-      "github.vscode-github-actions"
+    "github.vscode-github-actions"
       "jnoortheen.nix-ide"
       "mhutchie.git-graph"
       "ms-python.debugpy"
