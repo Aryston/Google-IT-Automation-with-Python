@@ -1,3 +1,4 @@
+# Suggested code may be subject to a license. Learn more: ~LicenseLog:943909994.
 import csv
 
 # Read software.csv
