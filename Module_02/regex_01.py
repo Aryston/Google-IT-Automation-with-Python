@@ -115,3 +115,42 @@ print(check_zip_code("The zip codes for New York are 10001 thru 11104."))  # Tru
 print(check_zip_code("90210 is a TV show"))  # False (no space before 90210)
 print(check_zip_code("Their address is: 123 Main Street, Anytown, AZ 85258-0001."))  # True
 print(check_zip_code("The Parliament of Canada is at 111 Wellington St, Ottawa, ON K1A0A9."))  # False
+
+print("----------------------")
+
+import re
+def rearrange_name(name):
+  result = re.search(r"^([\w \.-]*), ([\w. \.-]*)$", name)
+  if result == None:
+    return name
+  return "{} {}".format(result[2], result[1])
+
+name=rearrange_name("Kennedy, John F.")
+print(name)
+
+print("----------------------")
+# Oops!  We made a small error.  Un-escaped, the dot in this expression will match any character.
+# In this case it makes the code work, but it is incorrect! 
+# Since we wanted to match the dot character specifically, we should have escaped the dot 
+# with a backslash.  in the regular expression. 
+# The correct regular expression should be: "^([\w \.-]*), ([\w \.-]*)$"
+
+print("----------------------")
+import re
+
+def convert_phone_number(phone):
+    result = re.sub(r"\b(\d{3})-(\d{3})-(\d{4})\b", r"(\1) \2-\3", phone)
+    return result
+
+# Test cases
+print(convert_phone_number("My number is 212-345-9999.")) 
+# Should be "My number is (212) 345-9999."
+
+print(convert_phone_number("Please call 888-555-1234")) 
+# Should be "Please call (888) 555-1234"
+
+print(convert_phone_number("123-123-12345")) 
+# Should be "123-123-12345" (no change, invalid format)
+
+print(convert_phone_number("Phone number of Buckingham Palace is +44 303 123 7300")) 
+# Should be "Phone number of Buckingham Palace is +44 303 123 7300" (no change, not matching the format)
