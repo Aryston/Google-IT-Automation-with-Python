@@ -13,6 +13,8 @@
     # pkgs.nodePackages.nodemon
     pkgs.gnupg
     pkgs.pinentry
+    pkgs.sudo
+    pkgs.unixtools.util-linux
   ];
 
   # Sets environment variables in the workspace
