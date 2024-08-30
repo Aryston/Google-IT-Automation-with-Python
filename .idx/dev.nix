@@ -15,6 +15,7 @@
     pkgs.pinentry
     pkgs.sudo
     pkgs.unixtools.util-linux
+    pkgs.openssh
   ];
 
   # Sets environment variables in the workspace
